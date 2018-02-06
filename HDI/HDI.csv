@@ -1,0 +1,281 @@
+Country,sau_eez,HDI,FE,FE name,HDI_level
+Cayman Island,Cayman Isl. (UK),0.983,28,Cayman Isl. (UK),High
+Bermuda,Bermuda (UK),0.981,13,Bermuda (UK),High
+Norfolk Island,Norfolk Isl. (Australia),0.958,127,Norfolk Isl. (Australia),High
+Faroe Island,Faeroe Isl. (Denmark),0.95,54,Faeroe Isl. (Denmark),High
+British Virgin Island,British Virgin Isl. (UK),0.945,19,British Virgin Isl. (UK),High
+Falkland Island,Falkland Isl. (UK),0.933,55,Falkland Isl. (UK),High
+Aruba,Aruba (Netherlands),0.908,120,Aruba (Netherlands),High
+Puerto Rico,Puerto Rico (USA),0.865,144,Puerto Rico (USA),High
+Martinique,Martinique (France),0.904,107,Martinique (France),High
+Guam,Guam (USA),0.901,74,Guam (USA),High
+French Polynesia,French Polynesia,0.895,60,French Polynesia,High
+U.S. Virgin Islands,US Virgin Isl.,0.894,188,US Virgin Isl.,High
+Taiwan,Taiwan,0.882,32,Taiwan,High
+Northern Mariana Islands,Northern Marianas (USA),0.875,129,North Marianas (USA),High
+Turks and Caicos Island,Turks & Caicos Isl. (UK),0.873,179,Turks & Caicos Isl. (UK),High
+Greenland,Greenland (Denmark),0.869,71,Greenland,High
+New Caledonia,New Caledonia (France),0.869,121,New Caledonia (France),High
+Anguilla,Anguilla (UK),0.865,151,Anguilla (UK),High
+Saint Pierre and Miquelon,Saint Pierre & Miquelon (France),0.865,153,Saint Pierre & Miquelon (France),High
+Guadeloupe,Guadeloupe  (France),0.839,73,Guadeloupe  (France),High
+Cook Islands,Cook Islands,0.829,40,Cook Islands,High
+American Samoa,American Samoa,0.827,3,American Samoa,High
+Montserrat,Montserrat (UK),0.821,112,Montserrat (UK),High
+French Guiana,French Guiana,0.811,59,French Guiana,High
+Reunion,Réunion (France),0.799,146,Réunion (France),High
+Saint Helana,Saint Helena (UK),0.797,149,Saint Helena (UK),High
+Niue,Niue (New Zealand),0.794,126,Niue (New Zealand),High
+Wallis and Futuna,Wallis & Futuna Isl. (France),0.793,191,Wallis & Futuna Isl. (France),High
+Tokelau,Tokelau (New Zealand),0.75,173,Tokelau (New Zealand),High
+Marshall Islands,Marshall Isl.,0.738,132,Marshall Isl.,High
+Dem. People's Rep. of Korea,Korea (North),0.733,94,Korea (North),High
+Nauru,Nauru,0.721,117,Nauru,High
+Tuvalu,Tuvalu,0.711,180,Tuvalu,High
+Mayotte,Mayotte (France),0.616,37,Mayotte (France),Medium
+Somalia,Somalia,0.364,163,Somalia,Low
+Curacao,Curacao (Netherlands),0.845,214,Curacao,High
+Sint Maarten,Saba and Sint Eustaius (Netherlands),0.845,221,Saba and Saint Eustaius (Netherlands),High
+Sint Maarten,Sint Maarten (Netherlands),0.845,215,Sint Maarten,High
+Norway,Norway,0.949,128,Norway,High
+Australia,Australia,0.939,7,Australia,High
+Australia,Lord Howe Isl. (Australia),0.939,7,Australia,High
+Australia,Macquarie Isl. (Australia),0.939,7,Australia,High
+Germany,Germany (Baltic Sea),0.926,66,Germany,High
+Germany,Germany (North Sea),0.926,66,Germany,High
+Denmark,Denmark (Baltic Sea),0.925,46,Denmark,High
+Denmark,Denmark (North Sea),0.925,46,Denmark,High
+Singapore,Singapore,0.925,160,Singapore,High
+Netherlands,Netherlands,0.924,118,Netherlands,High
+Ireland,Ireland,0.923,86,Ireland,High
+Iceland,Iceland,0.921,81,Iceland,High
+Canada,Canada (Arctic),0.92,26,Canada,High
+Canada,Canada (East Coast),0.92,26,Canada,High
+Canada,Canada (Pacific),0.92,26,Canada,High
+United States,Hawaii Main Islands (USA),0.92,187,USA,High
+United States,Hawaii Northwest Islands (USA),0.92,187,USA,High
+United States,"USA (Alaska, Arctic)",0.92,187,USA,High
+United States,"USA (Alaska, Subarctic)",0.92,187,USA,High
+United States,USA (East Coast),0.92,187,USA,High
+United States,USA (Gulf of Mexico),0.92,187,USA,High
+United States,USA (West Coast),0.92,187,USA,High
+"Hong Kong, China (SAR)",Hong Kong (China),0.917,80,Hong Kong,High
+New Zealand,New Zealand,0.915,123,New Zealand,High
+Sweden,Sweden (Baltic),0.913,169,Sweden,High
+Sweden,Sweden (West Coast),0.913,169,Sweden,High
+United Kingdom,United Kingdom (UK),0.91,183,United Kingdom,High
+Japan,Japan (Daito Islands),0.903,91,Japan,High
+Japan,Japan (main islands),0.903,91,Japan,High
+Japan,Japan (Ogasawara Islands),0.903,91,Japan,High
+Korea (Republic of),Korea (South),0.901,95,Korea (South),High
+Israel,Israel (Mediterranean),0.899,87,Israel,High
+Israel,Israel (Red Sea),0.899,87,Israel,High
+France,France (Atlantic Coast),0.897,58,France,High
+France,France (Mediterranean),0.897,58,France,High
+Belgium,Belgium,0.896,12,Belgium,High
+Finland,Finland,0.895,57,Finland,High
+Slovenia,Slovenia,0.89,162,Slovenia,High
+Italy,Italy (mainland),0.887,88,Italy,High
+Italy,Sardinia (Italy),0.887,88,Italy,High
+Italy,Sicily (Italy),0.887,88,Italy,High
+Spain,"Spain (mainland, Med and Gulf of Cadiz)",0.884,165,Spain,High
+Spain,Spain (Northwest),0.884,165,Spain,High
+Greece,Greece (without Crete),0.866,70,Greece,High
+Brunei Darussalam,Brunei Darussalam,0.865,20,Brunei Darussalam,High
+Estonia,Estonia,0.865,53,Estonia,High
+Cyprus,Cyprus (North),0.856,207,North Cyprus,High
+Cyprus,Cyprus (South),0.856,208,South Cyprus,High
+Malta,Malta,0.856,106,Malta,High
+Qatar,Qatar,0.856,145,Qatar,High
+Poland,Poland,0.855,140,Poland,High
+Lithuania,Lithuania,0.848,101,Lithuania,High
+Chile,Chile (mainland),0.847,30,Chile,High
+Chile,Juan Fernandez Islands (Chile),0.847,30,Chile,High
+Saudi Arabia,Saudi Arabia (Persian Gulf),0.847,156,Saudi Arabia,High
+Saudi Arabia,Saudi Arabia (Red Sea),0.847,156,Saudi Arabia,High
+Portugal,Madeira Isl. (Portugal),0.843,217,Madeira Isl. (Portugal),High
+Portugal,Portugal (mainland),0.843,141,Portugal,High
+United Arab Emirates,United Arab Emirates,0.84,176,United Arab Emirates,High
+United Arab Emirates,United Arab Emirates (Fujairah),0.84,176,United Arab Emirates,High
+Latvia,Latvia,0.83,98,Latvia,High
+Argentina,Argentina,0.827,6,Argentina,High
+Croatia,Croatia,0.827,42,Croatia,High
+Bahrain,Bahrain,0.824,9,Bahrain,High
+Montenegro,Montenegro,0.807,194,Montenegro,High
+Russian Federation,Russia (Baltic Sea),0.804,148,Russian Federation,High
+Russian Federation,Russia (Barents Sea),0.804,148,Russian Federation,High
+Russian Federation,Russia (Black Sea),0.804,148,Russian Federation,High
+Russian Federation,Russia (Far East),0.804,148,Russian Federation,High
+Russian Federation,Russia (Kara Sea),0.804,148,Russian Federation,High
+Russian Federation,Russia (Laptev to Chukchi Sea),0.804,148,Russian Federation,High
+Romania,Romania,0.802,147,Romania,High
+Kuwait,Kuwait,0.8,96,Kuwait,High
+Oman,Oman,0.796,115,Oman,High
+Oman,Oman (Musandam),0.796,115,Oman,High
+Barbados,Barbados,0.795,11,Barbados,High
+Uruguay,Uruguay,0.795,189,Uruguay,High
+Bulgaria,Bulgaria,0.794,21,Bulgaria,High
+Bahamas,Bahamas,0.792,8,Bahamas,High
+Malaysia,Malaysia (Peninsula East),0.789,104,Malaysia,High
+Malaysia,Malaysia (Peninsula West),0.789,104,Malaysia,High
+Malaysia,Malaysia (Sabah),0.789,104,Malaysia,High
+Malaysia,Malaysia (Sarawak),0.789,104,Malaysia,High
+Palau,Palau,0.788,133,Palau,High
+Panama,Panama (Caribbean),0.788,135,Panama,High
+Panama,Panama (Pacific),0.788,135,Panama,High
+Antigua and Barbuda,Antigua & Barbuda,0.786,5,Antigua & Barbuda,High
+Seychelles,Seychelles,0.782,158,Seychelles,High
+Mauritius,Mauritius,0.781,109,Mauritius,High
+Trinidad and Tobago,Trinidad & Tobago,0.78,175,Trinidad & Tobago,High
+Costa Rica,Costa Rica (Caribbean),0.776,41,Costa Rica,High
+Costa Rica,Costa Rica (Pacific),0.776,41,Costa Rica,High
+Cuba,Cuba,0.775,43,Cuba,High
+Iran (Islamic Republic of),Iran (Persian Gulf),0.774,84,Iran,High
+Iran (Islamic Republic of),Iran (Sea of Oman),0.774,84,Iran,High
+Georgia,Georgia,0.769,63,Georgia,High
+Turkey,Turkey (Black Sea),0.767,178,Turkey,High
+Turkey,Turkey (Marmara Sea),0.767,178,Turkey,High
+Turkey,Turkey (Mediterranean Sea),0.767,178,Turkey,High
+Venezuela (Bolivarian Republic of),Venezuela,0.767,190,Venezuela,High
+Sri Lanka,Sri Lanka,0.766,29,Sri Lanka,High
+Saint Kitts and Nevis,Saint Kitts & Nevis,0.765,150,Saint Kitts & Nevis,High
+Albania,Albania,0.764,1,Albania,High
+Lebanon,Lebanon,0.763,97,Lebanon,High
+Mexico,Mexico (Atlantic),0.762,110,Mexico,High
+Mexico,Mexico (Pacific),0.762,110,Mexico,High
+Brazil,Brazil (mainland),0.754,15,Brazil,High
+Grenada,Grenada,0.754,72,Grenada,High
+Bosnia and Herzegovina,Bosnia & Herzegovina,0.75,14,Bosnia & Herzegovina,High
+Algeria,Algeria,0.745,2,Algeria,High
+Ukraine,Ukraine,0.743,181,Ukraine,High
+Jordan,Jordan,0.742,92,Jordan,High
+Peru,Peru,0.74,137,Peru,High
+Thailand,Thailand (Andaman Sea),0.74,171,Thailand,High
+Thailand,Thailand (Gulf of Thailand),0.74,171,Thailand,High
+Ecuador,Ecuador (mainland),0.739,49,Ecuador,High
+China,China,0.738,31,China,High
+Fiji,Fiji,0.736,56,Fiji,High
+Saint Lucia,Saint Lucia,0.735,152,Saint Lucia,High
+Jamaica,Jamaica,0.73,90,Jamaica,High
+Colombia,Colombia (Caribbean),0.727,35,Colombia,High
+Colombia,Colombia (Pacific),0.727,35,Colombia,High
+Dominica,Dominica,0.726,47,Dominica,High
+Suriname,Suriname,0.725,168,Suriname,High
+Tunisia,Tunisia,0.725,177,Tunisia,High
+Dominican Republic,Dominican Republic,0.722,48,Dominican Republic,High
+Saint Vincent and the Grenadines,Saint Vincent & the Grenadines,0.722,154,Saint Vincent & the Grenadines,High
+Tonga,Tonga,0.721,174,Tonga,High
+Libya,Libya,0.716,100,Libya,High
+Belize,Belize,0.706,16,Belize,High
+Samoa,Samoa,0.704,192,Samoa,High
+Maldives,Maldives,0.701,105,Maldives,High
+Gabon,Gabon,0.697,62,Gabon,Medium
+Egypt,Egypt (Mediterranean),0.691,182,Egypt,Medium
+Egypt,Egypt (Red Sea),0.691,182,Egypt,Medium
+Indonesia,Indonesia (Central),0.689,83,Indonesia,Medium
+Indonesia,Indonesia (Eastern),0.689,83,Indonesia,Medium
+Indonesia,Indonesia (Indian Ocean),0.689,83,Indonesia,Medium
+"Palestine, State of",Gaza Strip,0.684,65,Gaza Strip,Medium
+Viet Nam,Viet Nam,0.683,161,Viet Nam,Medium
+Philippines,Philippines,0.682,138,Philippines,Medium
+El Salvador,El Salvador,0.68,50,El Salvador,Medium
+South Africa,South Africa (Atlantic and Cape),0.666,164,South Africa,Medium
+South Africa,South Africa (Indian Ocean Coast),0.666,164,South Africa,Medium
+Iraq,Iraq,0.649,85,Iraq,Medium
+Cabo Verde,Cape Verde,0.648,27,Cape Verde,Medium
+Morocco,Morocco (Central),0.647,113,Morocco,Medium
+Morocco,Morocco (Mediterranean),0.647,113,Morocco,Medium
+Morocco,Morocco (South),0.647,113,Morocco,Medium
+Nicaragua,Nicaragua (Caribbean),0.645,124,Nicaragua,Medium
+Nicaragua,Nicaragua (Pacific),0.645,124,Nicaragua,Medium
+Guatemala,Guatemala (Caribbean),0.64,75,Guatemala,Medium
+Guatemala,Guatemala (Pacific),0.64,75,Guatemala,Medium
+Namibia,Namibia,0.64,116,Namibia,Medium
+Guyana,Guyana,0.638,77,Guyana,Medium
+Micronesia (Federated States of),Micronesia (Federated States of),0.638,131,Micronesia,Medium
+Honduras,Honduras (Caribbean),0.625,79,Honduras,Medium
+Honduras,Honduras (Pacific),0.625,79,Honduras,Medium
+India,India (mainland),0.624,82,India,Medium
+Timor-Leste,Timor Leste,0.606,143,Timor Leste,Medium
+Vanuatu,Vanuatu,0.597,122,Vanuatu,Medium
+Congo,"Congo, R. of",0.592,38,"Congo, R. of",Medium
+Equatorial Guinea,Equatorial Guinea,0.592,51,Equatorial Guinea,Medium
+Kiribati,Kiribati (Gilbert Islands),0.588,69,Kiribati,Medium
+Kiribati,Kiribati (Line Islands),0.588,69,Kiribati,Medium
+Kiribati,Kiribati (Phoenix Islands),0.588,69,Kiribati,Medium
+Bangladesh,Bangladesh,0.579,10,Bangladesh,Medium
+Ghana,Ghana,0.579,67,Ghana,Medium
+Sao Tome and Principe,Sao Tome & Principe,0.574,155,Sao Tome & Principe,Medium
+Cambodia,Cambodia,0.563,24,Cambodia,Medium
+Myanmar,Myanmar,0.556,22,Myanmar,Medium
+Kenya,Kenya,0.555,93,Kenya,Medium
+Pakistan,Pakistan,0.55,134,Pakistan,Medium
+Syrian Arab Republic,Syria,0.536,170,Syrian Arab Republic,Low
+Angola,Angola,0.533,4,Angola,Low
+Tanzania (United Republic of),Tanzania,0.531,186,Tanzania,Low
+Nigeria,Nigeria,0.527,125,Nigeria,Low
+Cameroon,Cameroon,0.518,25,Cameroon,Low
+Papua New Guinea,Papua New Guinea,0.516,136,Papua New Guinea,Low
+Solomon Islands,Solomon Isl.,0.515,18,Solomon Isl.,Low
+Mauritania,Mauritania,0.513,108,Mauritania,Low
+Madagascar,Madagascar,0.512,103,Madagascar,Low
+Comoros,Comoros Isl.,0.498,36,Comoros,Low
+Senegal,Senegal,0.494,157,Senegal,Low
+Haiti,Haiti,0.493,78,Haiti,Low
+Sudan,Sudan,0.49,167,Sudan,Low
+Togo,Togo,0.487,172,Togo,Low
+Benin,Benin,0.485,45,Benin,Low
+Yemen,Yemen (Arabian Sea),0.482,193,Yemen,Low
+Yemen,Yemen (Red Sea),0.482,193,Yemen,Low
+Côte d'Ivoire,Côte d'Ivoire,0.474,89,Côte d'Ivoire,Low
+Djibouti,Djibouti,0.473,61,Djibouti,Low
+Gambia,Gambia,0.452,64,Gambia,Low
+Congo (Democratic Republic of the),Congo (ex-Zaire),0.435,39,Congo (ex-Zaire),Low
+Liberia,Liberia,0.427,99,Liberia,Low
+Guinea-Bissau,Guinea-Bissau,0.424,142,Guinea-Bissau,Low
+Eritrea,Eritrea,0.42,23,Eritrea,Low
+Sierra Leone,Sierra Leone,0.42,159,Sierra Leone,Low
+Mozambique,Mozambique,0.418,114,Mozambique,Low
+Guinea,Guinea,0.414,76,Guinea,Low
+Navy Base,Trindade & Martim Vaz Isl. (Brazil),0.754,15,Brazil,High
+Navy Base,Wake Isl. (USA),0.92,187,USA,High
+Scientific personel,Johnston Atoll (USA),0.92,216,Johnston Atoll (USA),High
+Scientific personel,Kerguelen Isl. (France),0.897,58,France,High
+Scientific personnel,Palmyra Atoll & Kingman Reef (USA),0.92,187,USA,High
+Scientific personnel,Prince Edward Isl. (South Africa),0.666,164,South Africa,Medium
+Scientific personnel,South Georgia & Sandwich Isl. (UK),0.91,183,United Kingdom,High
+Scientific personnel,South Orkney Islands (UK),0.91,183,United Kingdom,High
+Scientific personnel,St Paul & Amsterdam Isl. (France),0.897,58,France,High
+Scientific personnel,St Paul and St. Peter Archipelago (Brazil),0.754,15,Brazil,High
+Scientific personnel,Tristan da Cunha Isl. (UK),0.91,220,Tristan da Cunha Isl. (UK),High
+Scientific personnel,Tromelin Isl. (France),0.897,58,France,High
+Uninhabitated,Jarvis Isl. (USA),0.92,187,USA,High
+Uninhabitated,Kermadec Isl. (New Zealand),0.915,123,New Zealand,High
+,Andaman & Nicobar Isl. (India),0.624,82,India,Medium
+,Ascension Isl. (UK),0.91,219,Ascension Isl. (UK),High
+,Azores Isl. (Portugal),0.843,218,Azores Isl. (Portugal),High
+,Balearic Island (Spain),0.884,165,Spain,High
+,Bonaire (Netherlands),0.924,222,Bonaire (Netherlands),High
+,Bouvet Isl. (Norway),0.949,128,Norway,High
+,Canary Isl. (Spain),0.884,165,Spain,High
+,Chagos Archipelago (UK),0.91,17,Brit. Indian Ocean Terr. (UK),High
+,Channel Isl. (UK),0.91,184,Channel Isl. (UK),High
+,Christmas Isl. (Australia),0.939,33,Christmas Isl. (Australia),High
+,Clipperton Isl.  (France),0.897,58,France,High
+,Cocos (Keeling) Isl. (Australia),0.939,34,Cocos (Keeling) Isl. (Australia),High
+,Corsica (France),0.897,58,France,High
+,Crete (Greece),0.866,70,Greece,High
+,Crozet Isl. (France),0.897,58,France,High
+,Desventuradas Isl. (Chile),0.847,30,Chile,High
+,Easter Isl. (Chile),0.847,30,Chile,High
+,Fernando de Noronha (Brazil),0.754,15,Brazil,High
+,Galapagos Isl. (Ecuador),0.739,49,Ecuador,High
+,Glorieuse Islands (France),0.897,58,France,High
+,Heard & McDonald Isl. (Australia),0.939,7,Australia,High
+,Howland & Baker Isl. (USA),0.92,187,USA,High
+,Jan Mayen Isl. (Norway),0.949,128,Norway,High
+,Mozambique Channel Isl. (France),0.897,58,France,High
+,Pitcairn (UK),0.91,139,Pitcairn (UK),High
+,St Barthelemy (France),0.897,209,St Barthelemy (France),High
+,St Martin (France),0.897,210,St Martin,High
+,Svalbard Isl. (Norway),0.949,128,Norway,High
